@@ -1,0 +1,491 @@
+{
+  "name": "Endless Truck",
+  "slug": "endless-truck",
+  "entryUrl": "https://play.famobi.com/endless-truck/A-5U0J1?key=y8&value=default",
+  "capturedAt": "2026-07-22T10:18:44.959Z",
+  "navigationError": null,
+  "assets": [
+    {
+      "url": "https://play.famobi.com/endless-truck/A-5U0J1?key=y8&value=default",
+      "file": "index.html",
+      "bytes": 13034,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://play.famobi.com/assets/0.2-c2653b23/js/helper.js",
+      "file": "assets/0.2-c2653b23/js/helper.js",
+      "bytes": 9833,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript;charset=UTF-8"
+    },
+    {
+      "url": "https://play.famobi.com/assets/0.2-c2653b23/css/play.css",
+      "file": "assets/0.2-c2653b23/css/play.css",
+      "bytes": 102527,
+      "status": 200,
+      "type": "stylesheet",
+      "contentType": "text/css;charset=UTF-8"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,600,800&display=swap",
+      "file": "_external/fonts.googleapis.com/css",
+      "bytes": 18042,
+      "status": 200,
+      "type": "stylesheet",
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://play.famobi.com/play/hit/a5ff2552-bbd9-4aff-9bcc-ec056478318d/A-5U0J1",
+      "file": "play/hit/a5ff2552-bbd9-4aff-9bcc-ec056478318d/A-5U0J1",
+      "bytes": 43,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://games.cdn.famobi.com/html5games/e/endless-truck/v540/?fg_domain=play.famobi.com&fg_aid=A-5U0J1&fg_uid=a5ff2552-bbd9-4aff-9bcc-ec056478318d&fg_pid=ea6ab7c8-bd94-4deb-b0dc-4eaaea0e84d4&fg_beat=471&key=y8&value=default&original_ref=",
+      "file": "_external/games.cdn.famobi.com/html5games/e/endless-truck/v540/index.html",
+      "bytes": 5363,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://games.cdn.famobi.com/html5games/e/endless-truck/v540/pics/error.png",
+      "file": "_external/games.cdn.famobi.com/html5games/e/endless-truck/v540/pics/error.png",
+      "bytes": 878,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://games.cdn.famobi.com/html5games/gameapi/v1.js?e=https%3A%2F%2Fgames.cdn.famobi.com%2Fhtml5games%2Fe%2Fendless-truck%2Fv540%2F%3Ffg_domain%3Dplay.famobi.com%26fg_aid%3DA-5U0J1%26fg_uid%3Da5ff2552-bbd9-4aff-9bcc-ec056478318d%26fg_pid%3Dea6ab7c8-bd94-4deb-b0dc-4eaaea0e84d4%26fg_beat%3D471%26key%3Dy8%26value%3Ddefault%26original_ref%3D",
+      "file": "_external/games.cdn.famobi.com/html5games/gameapi/v1.js",
+      "bytes": 1159,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://api.famobi.com/gameapi/script/a5ff2552-bbd9-4aff-9bcc-ec056478318d/ea6ab7c8-bd94-4deb-b0dc-4eaaea0e84d4?_location=https%3A%2F%2Fgames.cdn.famobi.com%2Fhtml5games%2Fe%2Fendless-truck%2Fv540%2F%3Ffg_domain%3Dplay.famobi.com%26fg_aid%3DA-5U0J1%26fg_uid%3Da5ff2552-bbd9-4aff-9bcc-ec056478318d%26fg_pid%3Dea6ab7c8-bd94-4deb-b0dc-4eaaea0e84d4%26fg_beat%3D471%26key%3Dy8%26value%3Ddefault%26original_ref%3D",
+      "file": "_external/api.famobi.com/gameapi/script/a5ff2552-bbd9-4aff-9bcc-ec056478318d/ea6ab7c8-bd94-4deb-b0dc-4eaaea0e84d4",
+      "bytes": 125072,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://www.google.com.vn/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-MW44YFJQMQ&cid=2095759027.1784715510&gtm=45je67k1v9134937679za200zd9134937679&rcb=14&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938468~118897920~118897930~119527020~119724320~119773332~119896803&z=1522980870",
+      "file": "_external/www.google.com.vn/ads/ga-audiences",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://api.famobi.com/assets/0.2-c2653b23/js/gameapi.js",
+      "file": "_external/api.famobi.com/assets/0.2-c2653b23/js/gameapi.js",
+      "bytes": 413942,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript;charset=UTF-8"
+    },
+    {
+      "url": "https://games.cdn.famobi.com/portal/ea6ab7c8-bd94-4deb-b0dc-4eaaea0e84d4/more-games-button/600x253/5c13e9699ad7e.png",
+      "file": "_external/games.cdn.famobi.com/portal/ea6ab7c8-bd94-4deb-b0dc-4eaaea0e84d4/more-games-button/600x253/5c13e9699ad7e.png",
+      "bytes": 2580,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://pro.ip-api.com/json/?key=0meDkSsHhF3MQK0&fields=2",
+      "file": "_external/pro.ip-api.com/json/index.html",
+      "bytes": 20,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+      "file": "_external/cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+      "bytes": 26578,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://js.adscale.de/map.js",
+      "file": "_external/js.adscale.de/map.js",
+      "bytes": 7922,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/consent/e63a91ad-15ec-4e2d-ae18-2a0b6143ecd8/e63a91ad-15ec-4e2d-ae18-2a0b6143ecd8.json",
+      "file": "_external/cookie-cdn.cookiepro.com/consent/e63a91ad-15ec-4e2d-ae18-2a0b6143ecd8/e63a91ad-15ec-4e2d-ae18-2a0b6143ecd8.json",
+      "bytes": 5805,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_it.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_it.png",
+      "bytes": 1338,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_en.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_en.png",
+      "bytes": 3200,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_fr.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_fr.png",
+      "bytes": 587,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_es.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_es.png",
+      "bytes": 2566,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_de.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_de.png",
+      "bytes": 654,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_nl.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_nl.png",
+      "bytes": 161,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_ru.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_ru.png",
+      "bytes": 566,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_pl.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_pl.png",
+      "bytes": 112,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_pt.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_pt.png",
+      "bytes": 7411,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/flags/flag_tr.png",
+      "file": "_external/img.cdn.famobi.com/flags/flag_tr.png",
+      "bytes": 2654,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "file": "_external/geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "bytes": 66,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/portal/html5games/images/tmp/EndlessTruckTeaser.jpg",
+      "file": "_external/img.cdn.famobi.com/portal/html5games/images/tmp/EndlessTruckTeaser.jpg",
+      "bytes": 39438,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://img.cdn.famobi.com/portal/html5games/images/tmp/blurred/EndlessTruckTeaser.jpg",
+      "file": "_external/img.cdn.famobi.com/portal/html5games/images/tmp/blurred/EndlessTruckTeaser.jpg",
+      "bytes": 4946,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/otBannerSdk.js",
+      "file": "_external/cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/otBannerSdk.js",
+      "bytes": 572425,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://connectid.analytics.yahoo.com/connectId-gpt.js",
+      "file": "_external/connectid.analytics.yahoo.com/connectId-gpt.js",
+      "bytes": 8729,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/consent/e63a91ad-15ec-4e2d-ae18-2a0b6143ecd8/01970d34-5076-74c2-853e-26827f2f09ec/en-us.json",
+      "file": "_external/cookie-cdn.cookiepro.com/consent/e63a91ad-15ec-4e2d-ae18-2a0b6143ecd8/01970d34-5076-74c2-853e-26827f2f09ec/en-us.json",
+      "bytes": 311829,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/x-javascript"
+    },
+    {
+      "url": "https://cdn.id5-sync.com/api/1.0/esp.js",
+      "file": "_external/cdn.id5-sync.com/api/1.0/esp.js",
+      "bytes": 121105,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript;charset=utf-8"
+    },
+    {
+      "url": "https://oa.openxcdn.net/esp.js",
+      "file": "_external/oa.openxcdn.net/esp.js",
+      "bytes": 32437,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/google-esp.js",
+      "file": "_external/ads.pubmatic.com/AdServer/js/google-esp.js",
+      "bytes": 9612,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js",
+      "file": "_external/cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js",
+      "bytes": 382,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/assets/otCenterRounded.json",
+      "file": "_external/cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/assets/otCenterRounded.json",
+      "bytes": 10574,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/assets/v2/otPcCenter.json",
+      "file": "_external/cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/assets/v2/otPcCenter.json",
+      "bytes": 68891,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/assets/otCommonStyles.css",
+      "file": "_external/cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/assets/otCommonStyles.css",
+      "bytes": 27926,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/assets/otCookieSettingsButton.json",
+      "file": "_external/cookie-cdn.cookiepro.com/scripttemplates/202606.2.0/assets/otCookieSettingsButton.json",
+      "bytes": 6011,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "file": "_external/static.criteo.net/js/ld/publishertag.ids.js",
+      "bytes": 42696,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/logos/static/ot_guard_logo.svg",
+      "file": "_external/cookie-cdn.cookiepro.com/logos/static/ot_guard_logo.svg",
+      "bytes": 497,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/logos/static/powered_by_logo.svg",
+      "file": "_external/cookie-cdn.cookiepro.com/logos/static/powered_by_logo.svg",
+      "bytes": 5445,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/logos/fcf96cf4-54bf-4fe4-9e7b-73c758a19978/a5de577e-d00e-4410-b475-0cea3860a192/2332cc5b-beca-4a14-ac2a-4fb121c61543/FamobiLogo_small.png",
+      "file": "_external/cookie-cdn.cookiepro.com/logos/fcf96cf4-54bf-4fe4-9e7b-73c758a19978/a5de577e-d00e-4410-b475-0cea3860a192/2332cc5b-beca-4a14-ac2a-4fb121c61543/FamobiLogo_small.png",
+      "bytes": 2226,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://cookie-cdn.cookiepro.com/logos/fcf96cf4-54bf-4fe4-9e7b-73c758a19978/01903b47-0439-7ea9-b387-2d65d5daec51/b33b79c7-862d-4a3c-a5c6-9f7e0258effc/FamobiLogo_Typo.png",
+      "file": "_external/cookie-cdn.cookiepro.com/logos/fcf96cf4-54bf-4fe4-9e7b-73c758a19978/01903b47-0439-7ea9-b387-2d65d5daec51/b33b79c7-862d-4a3c-a5c6-9f7e0258effc/FamobiLogo_Typo.png",
+      "bytes": 2240,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://rtb.openx.net/esp?url=https%3A%2F%2Fgames.cdn.famobi.com%2Fhtml5games%2Fe%2Fendless-truck%2Fv540%2F%3Ffg_domain%3Dplay.famobi.com%26fg_aid%3DA-5U0J1%26fg_uid%3Da5ff2552-bbd9-4aff-9bcc-ec056478318d%26fg_pid%3Dea6ab7c8-bd94-4deb-b0dc-4eaaea0e84d4%26fg_beat%3D471%26key%3Dy8%26value%3Ddefault%26original_ref%3D&rid=esp&cc=1",
+      "file": "_external/rtb.openx.net/esp",
+      "bytes": 85,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=games.cdn.famobi.com",
+      "file": "_external/gum.criteo.com/syncframe",
+      "bytes": 12662,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://google-bidout-d.openx.net/w/1.0/pd?plm=5",
+      "file": "_external/google-bidout-d.openx.net/w/1.0/pd",
+      "bytes": 491,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://us-u.openx.net/w/1.0/sd?id=537072991&val=CAESEKywpX3IXOjbNYwy4ZweEUo&google_cver=1",
+      "file": "_external/us-u.openx.net/w/1.0/sd",
+      "bytes": 43,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://mug.criteo.com/sid?cpp=XYS81HwrbTJIWUJ4bjFIdTRPNTlxT0VNZkNvdkFOQTJKb1EvcTlZN3pDKzZyb2VnN3hrNGI0cW5oSmdpNWRDcDJZK1MvRXVpazNGZjdtNkkwcTA4OGJ1bEVkbXZpZk5mRVJhTkxveENnQ2U2d2UxdkVJVEZMK0VTUDJKR3QrRjAyYmIrSmJCN2Q3aWc4SmJ5OWFXcVlOY1VJM0lYcjdIeUNYWnVCc0Y1SE8waENUSDRIMnBOczVUOGh1L1pNODUyTGpqTXI2WHVJeXNZTThGUHpDd2lCelRCWmFUb213NmF6dEdKbkFNRkNJS0xQR0ZDa2FtS0FsWjU4RG02NndROWRTY1B4NWViUnAyaDZqWDNyZitTenptamxPK2c1UnpTZkV0Y3RmTEVVbzhscHBxaz18&cppv=2",
+      "file": "_external/mug.criteo.com/sid",
+      "bytes": 430,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://jp-u.openx.net/w/1.0/sd?id=537072451&val=ASMD-7pRACw3ks8AKW9v9cIHa88AAAGfiVWKUQ",
+      "file": "_external/jp-u.openx.net/w/1.0/sd",
+      "bytes": 43,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "file": "_external/invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "bytes": 2729,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://u.openx.net/w/1.0/sd?gdpr=&gdpr_consent=&id=559546607&val=OPU033f152d58f847f3adc4606cf757f7e7",
+      "file": "_external/u.openx.net/w/1.0/sd",
+      "bytes": 43,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://ih.adscale.de/map?ssl=1&format=video&gdpr_err=CMP_TIME_OUT&src=map_js&ref=https%3A%2F%2Fplay.famobi.com%2F",
+      "file": "_external/ih.adscale.de/map",
+      "bytes": 0,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/plain; charset=UTF-8"
+    },
+    {
+      "url": "https://games.cdn.famobi.com/html5games/e/endless-truck/v540/favicon-32x32.png",
+      "file": "_external/games.cdn.famobi.com/html5games/e/endless-truck/v540/favicon-32x32.png",
+      "bytes": 2094,
+      "status": 200,
+      "type": "other",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gpt&tv=m202607170101&st=env&sjk=3546024916240896",
+      "file": "_external/ep1.adtrafficquality.google/getconfig/sodar",
+      "bytes": 17782,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json; charset=UTF-8"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "file": "_external/ep2.adtrafficquality.google/sodar/sodar2.js",
+      "bytes": 21546,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+      "file": "_external/ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+      "bytes": 14627,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "file": "_external/www.google.com/recaptcha/api2/aframe",
+      "bytes": 829,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html; charset=utf-8"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-07-22T11:12:30.133Z",
+    "navigationError": null,
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedAssets": [],
+    "remoteRequests": [],
+    "blockingIssues": [],
+    "status": "done"
+  }
+}
