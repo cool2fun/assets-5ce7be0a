@@ -170,6 +170,38 @@ body {
             fgJS.src = url + encodeURIComponent(document.location.href);
             firstJS.parentNode.insertBefore(fgJS, firstJS);
     })(document, 'gameapi/v1.js?e=');
+
+    (function () {
+        var resolved = Promise.resolve();
+        var currentScreen = '';
+        window.famobi = {
+            config: { aid: 'standalone' },
+            hasFeature: function (feature) { return feature === 'standalone'; },
+            log: function () {},
+            __: function (text) { return text; },
+            getCurrentLanguage: function () { return 'en'; },
+            getMoreGamesButtonImage: function () { return ''; },
+            moreGamesLink: function () {},
+            rewardedAd: function (callback) {
+                if (typeof callback === 'function') callback({ rewardGranted: false });
+                return resolved;
+            },
+            localStorage: window.localStorage
+        };
+        window.famobi_analytics = {
+            getScreen: function () { return currentScreen; },
+            trackScreen: function (screen) { currentScreen = screen; return resolved; },
+            trackEvent: function () { return resolved; }
+        };
+
+        var gameScript = document.createElement('script');
+        gameScript.src = window.famobi_gameJS[0];
+        gameScript.onload = function () { window.famobi_gameJS[1](); };
+        gameScript.onerror = function () {
+            document.getElementById('dlg-error-div').style.display = 'block';
+        };
+        document.head.appendChild(gameScript);
+    })();
 </script>
 
 </head>
@@ -187,4 +219,3 @@ body {
 </body>
 
 </html>
-
